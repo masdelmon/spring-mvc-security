@@ -19,7 +19,7 @@
 			<groupId>org.springframework</groupId>
 			
 			<version>${org.springframework-version}</version>
-			version>${org.aspectj-version}</version>
+			
 			
 				<!-- Exclude Commons Logging in favor of SLF4j -->
 				
